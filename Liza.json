@@ -1,0 +1,11 @@
+{
+	"name":"vladislav", 
+         "surname":"Ushakevich"
+      "family":{"Son:"{"Name":"Dima",
+    "Age": 15,
+    "male":true,
+     "toys":["ball", "doll", "bike", true, 4, 3.5, null,
+    {"friends":"Artem"}]}
+}
+
+}        
